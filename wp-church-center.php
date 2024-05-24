@@ -3,7 +3,7 @@
      * Plugin Name:       Church Center Form Embedder
      * Plugin URI:        https://github.com/timschieck/wp-church-center-form-embedder
      * Description:       Allows embedded forms using 'church-center-modal=true' option on links.
-     * Version:           1.0
+     * Version:           1.2
      * Author:            Tim Schieck
      * Author URI:        https://github.com/timschieck
      * License:           GPL v2 or later
